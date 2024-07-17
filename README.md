@@ -1,2 +1,2 @@
 # Power-Bi-Dashboard
-author - Raj Kumar Gupta
+Author - Raj Kumar Gupta
